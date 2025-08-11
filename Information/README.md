@@ -1,5 +1,5 @@
 
-![bannner](../html_info/banner.png)
+![banner](../html_info/banner.png)
 
 # General Information
 
