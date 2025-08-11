@@ -42,7 +42,7 @@
 <b>Forecast hour (00 - 24)</b>: [00](#c0) | [01](#c1) | [02](#c2) | <span style='color: purple; text-decoration:underline;'>03</span> | [04](#c4) | [05](#c5) | [06](#c6) | [07](#c7) | [08](#c8) | [09](#c9) | [10](#c10) | [11](#c11) | [12](#c12) | [13](#c13) | [14](#c14) | [15](#c15) | [16](#c16) | [17](#c17) | [18](#c18) | [19](#c19) | [20](#c20) | [21](#c21) | [22](#c22) | [23](#c23) | [24](#c24)</br>
 <b>Forecast hour (25 - 48)</b>: [25](#c25) | [26](#c26) | [27](#c27) | [28](#c28) | [29](#c29) | [30](#c30) | [31](#c31) | [32](#c32) | [33](#c33) | [34](#c34) | [35](#c35) | [36](#c36) | [37](#c37) | [38](#c38) | [39](#c39) | [40](#c40) | [41](#c41) | [42](#c42) | [43](#c43) | [44](#c44) | [45](#c45) | [46](#c46) | [47](#c47) | [48](#c48)
 
-<img src="ACC_DUST_CENTCOM_3.png" alt="CENTCOM Emission 03 Hour Forecast" width="800"/>
+<img src="./Figures/ACC_DUST_CENTCOM_3.png" alt="CENTCOM Emission 03 Hour Forecast" width="800"/>
 
 ### [Top](#general-information) | [NAF](#lastest-north-africa-dust-emission-data)
 ### C4 
