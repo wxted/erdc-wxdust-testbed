@@ -449,7 +449,7 @@
 <b>Forecast hour (00 - 24)</b>: [00](#n0) | [01](#n1) | [02](#n2) | <span style='color: purple; text-decoration:underline;'>03</span> | [04](#n4) | [05](#n5) | [06](#n6) | [07](#n7) | [08](#n8) | [09](#n9) | [10](#n10) | [11](#n11) | [12](#n12) | [13](#n13) | [14](#n14) | [15](#n15) | [16](#n16) | [17](#n17) | [18](#n18) | [19](#n19) | [20](#n20) | [21](#n21) | [22](#n22) | [23](#n23) | [24](#n24)</br>
 <b>Forecast hour (25 - 48)</b>: [25](#n25) | [26](#n26) | [27](#n27) | [28](#n28) | [29](#n29) | [30](#n30) | [31](#n31) | [32](#n32) | [33](#n33) | [34](#n34) | [35](#n35) | [36](#n36) | [37](#n37) | [38](#n38) | [39](#n39) | [40](#n40) | [41](#n41) | [42](#n42) | [43](#n43) | [44](#n44) | [45](#n45) | [46](#n46) | [47](#n47) | [48](#n48)
 
-<img src="TRANSPORT_DUST_NAF_3.png" alt="NAF Transport 03 Hour Forecast" width="800"/>
+<img src="../Figures/TRANSPORT_DUST_NAF_3.png" alt="NAF Transport 03 Hour Forecast" width="800"/>
 
 ### [Top](#general-information) | [CENTCOM](#lastest-centcom-dust-transport-data)
 ### N4 
