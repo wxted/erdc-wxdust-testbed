@@ -12,7 +12,7 @@
 ---
 
 # Lastest CENTCOM Dust Transport Data 
-## Most Recent Update: 20250831_00UTC
+## Most Recent Update: 20250831_12UTC
 ## [Home](#general-information) | [NAF](#lastest-north-africa-dust-transport-data)
 ### C0
 
