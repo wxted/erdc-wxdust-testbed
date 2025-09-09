@@ -12,7 +12,7 @@
 ---
 
 # Lastest CENTCOM Dust Emission Data 
-## Most Recent Update: 20250908_12UTC
+## Most Recent Update: 20250909_06UTC
 ## [Home](#general-information) | [NAF](#lastest-north-africa-dust-emission-data)
 ### C0
 
